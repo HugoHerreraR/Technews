@@ -82,7 +82,11 @@ ul{
     border: 1px solid white;
     margin: 10px 0;
 }
-
 .btn:hover{
     opacity: .5;
+}
+
+.showcase h2,
+.showcase p{
+    margin-bottom: 10px;
 }
