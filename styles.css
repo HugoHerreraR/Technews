@@ -213,5 +213,7 @@ hr{
     .cards-banner-two .content{
         width: 80%;
     }
-
+    .footer-links .footer-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
