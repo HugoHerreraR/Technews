@@ -228,6 +228,9 @@ hr{
         padding: 20px;
         font-size: 14px;
     }
+    .nav-main ul.nav-menu-right{
+        margin-right: 50px;
+    }
     .news-cards{
         grid-template-columns: repeat(2, 1fr);
     }
