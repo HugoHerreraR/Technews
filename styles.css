@@ -220,7 +220,7 @@ hr{
         left: 0;
         background: #2f3640;
         height: 100%;
-        transform: translate(-20px);
+        transform: translate(-400px);
         padding: 30px;
         opacity: .9;
     }
